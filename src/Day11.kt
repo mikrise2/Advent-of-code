@@ -1,6 +1,5 @@
 import java.util.LinkedList
 import java.util.Queue
-import kotlin.math.floor
 
 fun main() {
     data class Monkey(
